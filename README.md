@@ -19,3 +19,7 @@ Incorrect: 844
 True Positive Rate: 41.02%
 True Negative Rate: 90.55%
 ```
+
+## License
+This project was made under CS50's Introduction to Artificial Intelligence, a course of study by HarvardX.<br>
+The course is licensed under a [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
